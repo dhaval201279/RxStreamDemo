@@ -1,0 +1,1 @@
+Sample application demonstrating how stream of object can be sent for a given request 
